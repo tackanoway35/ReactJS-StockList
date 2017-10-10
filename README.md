@@ -1,6 +1,7 @@
 ## React JS - Stock list
 Bảng giá giao dịch xây dựng dựa trên React Framework
 
+![](stocklist.png)
 #### Yêu cầu
 * Sử dụng nodeJS v7.10.0
 * Sử dụng npm 4.6.1
