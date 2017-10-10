@@ -2,10 +2,17 @@
 Bảng giá giao dịch xây dựng dựa trên React Framework
 
 ![](stocklist.png)
+
+### Cài đặt
+* Cài đặt node_modules : npm install
+* Khởi động server qua port 3000 : yarn start
+* Link website : localhost:3000
+
 #### Yêu cầu
 * Sử dụng nodeJS v7.10.0
 * Sử dụng npm 4.6.1
 * Sử dụng react framework v16.0.0
+
 
 Cấu trúc thư mục
 ```
