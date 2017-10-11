@@ -8,6 +8,11 @@ Bảng giá giao dịch xây dựng dựa trên React Framework
 * Khởi động server qua port 3000 : yarn start
 * Link website : localhost:3000
 
+### Test 
+* Unit test sử dụng Jest & enzyme
+* 3 file test : App.test.js - gainers.test.js - losers.test.js
+* Test command : yarn test (test all), yarn test gainers.test.js (test GainersComponent), yarn test losers.test.js
+
 #### Yêu cầu
 * Sử dụng nodeJS v7.10.0
 * Sử dụng npm 4.6.1
